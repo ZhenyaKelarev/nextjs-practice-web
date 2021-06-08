@@ -6,6 +6,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <h1>hi next world</h1>
+      <p>finnaly i fix problem with ssh</p>
     </div>
   );
 }
